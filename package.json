@@ -1,0 +1,14 @@
+{
+  "name": "@ongoing/ongoing-gui",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "private": false,
+  "scripts": {
+    "dev": "node src/index.js",
+    "build": "echo \"no build step yet\"",
+    "test": "echo \"no tests yet\""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
