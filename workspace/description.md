@@ -10,3 +10,7 @@ for CD, we also rely on GitHub Workflows.
 1. Do not post spam
 2. Follow our Code Of Conduct
 3. Goodbye!
+
+## Signoff
+
+# EOF
