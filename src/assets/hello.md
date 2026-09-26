@@ -7,3 +7,7 @@ the # will render as:
 if you want a subheader, then do:
 
 ## Header
+
+if you want a very small heading: you can do:
+
+####### Header
