@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 60">
+<title>green-flag.svg</title>
+   <desc>Hi!</desc>
+  <!-- Flagpole -->
+  <line x1="10" y1="5" x2="10" y2="55" stroke="#444" stroke-width="3" stroke-linecap="round" />
+
+  <!-- Flag -->
+  <path
+    d="M10 8
+       L40 12
+       Q55 15 70 10
+       L70 32
+       Q55 28 40 30
+       L10 26 Z"
+    fill="#4F46E5"
+    stroke="#222"
+    stroke-width="2"
+  />
+
+  <!-- Simple emblem (circle) -->
+  <circle cx="40" cy="21" r="6" fill="#FACC15" />
+</svg>
